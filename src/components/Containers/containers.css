@@ -1,0 +1,39 @@
+.Containers .first {
+  display: flex;
+  height: 25vh;
+  width: 100%; }
+  .Containers .first #laptop {
+    display: flex;
+    height: 25vh;
+    width: 50%;
+    background-color: yellow; }
+
+.Containers .second {
+  display: flex;
+  height: 25vh;
+  width: 100%;
+  background-color: blue; }
+  .Containers .second #accersories {
+    display: flex;
+    height: 25vh;
+    width: 50%; }
+  .Containers .second #software {
+    display: flex;
+    height: 25vh;
+    width: 50%; }
+
+.Containers .third {
+  display: flex;
+  height: 25vh;
+  width: 100%;
+  background-color: green; }
+  .Containers .third #games {
+    display: flex;
+    height: 25vh;
+    width: 50%;
+    background-color: #c916b1; }
+  .Containers .third #tv {
+    display: flex;
+    height: 25vh;
+    width: 50%;
+    background-color: #c916b1; }

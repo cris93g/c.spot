@@ -1,0 +1,48 @@
+.Containers {
+  .first {
+    display: flex;
+    height: 25vh;
+    width: 100%;
+
+    #laptop {
+      display: flex;
+      height: 25vh;
+      width: 50%;
+      background-color: yellow;
+    }
+  }
+  .second {
+    display: flex;
+    height: 25vh;
+    width: 100%;
+    background-color: blue;
+    #accersories {
+      display: flex;
+      height: 25vh;
+      width: 50%;
+    }
+    #software {
+      display: flex;
+      height: 25vh;
+      width: 50%;
+    }
+  }
+  .third {
+    display: flex;
+    height: 25vh;
+    width: 100%;
+    background-color: green;
+    #games {
+      display: flex;
+      height: 25vh;
+      width: 50%;
+      background-color: rgb(201, 22, 177);
+    }
+    #tv {
+      display: flex;
+      height: 25vh;
+      width: 50%;
+      background-color: rgb(201, 22, 177);
+    }
+  }
+}

@@ -1,0 +1,24 @@
+header {
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  align-items: center;
+  color: white;
+  a {
+    color: white;
+    text-decoration: none;
+  }
+}
+
+@media (max-width: 990px) {
+  header .links {
+    display: none;
+  }
+  @media (max-width: 990px) {
+    header .ham {
+      height: 100%;
+      width: 20%;
+    }
+  }
+}

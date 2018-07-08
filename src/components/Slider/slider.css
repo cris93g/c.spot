@@ -1,0 +1,31 @@
+body,
+#slider,
+wrap,
+.slide-content {
+  margin: 0;
+  padding: 0;
+  height: 37vh;
+  width: 100%;
+  overflow-x: hidden; }
+
+span {
+  margin: 0;
+  padding: 0; }
+
+.wrap {
+  position: relative; }
+
+.slide {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat; }
+
+/* .slide1 {
+  background-image: url("./sliderImg/pexels-photo-825262.jpg");
+}
+.slide2 {
+  background-image: url("./sliderImg/pexels-photo-1068523.jpg");
+}
+.slide3 {
+  background-image: url("./sliderImg/pexels-photo-669615.jpg");
+} */
